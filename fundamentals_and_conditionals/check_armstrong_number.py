@@ -8,8 +8,7 @@ while num>0 :
     s= num%10
     num=num//10
     tem = tem+s**l
-
-print (temp , tem)    
+ 
 if temp==tem:
     print(temp, " is Armstrong")    
 else:

@@ -104,12 +104,6 @@ Python_Basics_Practice/
 
 ---
 
-## 🔍 SEO Keywords
-
-**Python practice exercises**, **Python basics for beginners**, **fundamentals of Python**, **Python logic building**, **Python coding challenges**, **Python programming exercises**, **Python list problems**, **Python string problems**, **Python recursion examples**, **Python pattern programs**, **Python beginner projects**.
-
----
-
 ## 📈 How to Use
 
 1. **Clone or download** this repository.  
@@ -130,3 +124,10 @@ Feel free to modify, improve, or share it for educational purposes.
 
 Start from the **fundamentals_and_conditionals** folder and move sequentially through the others.  
 Code each problem yourself — that’s how you become a confident Python developer!
+
+---
+
+
+## 🔍 SEO Keywords
+
+**Python practice exercises**, **Python basics for beginners**, **fundamentals of Python**, **Python logic building**, **Python coding challenges**, **Python programming exercises**, **Python list problems**, **Python string problems**, **Python recursion examples**, **Python pattern programs**, **Python beginner projects**.

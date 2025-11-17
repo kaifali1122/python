@@ -8,14 +8,14 @@ while num>0 :
     
 print (tem)
 if tem==temp:
-    print(temp, " is Armstrong")    
+    print(temp, " is palindromg")    
 else:
-    print(temp, " is not a armstron")    
+    print(temp, " is not a palindrom")    
 
 
 # using direct method 
     
 # if (temp==int(str(temp)[::-1])):
-#     print(temp, " is Armstrong")    
+#     print(temp, " is palindromg")    
 # else:
-#     print(temp, " is not a armstron")    
+#     print(temp, " is not a palindrom")    
